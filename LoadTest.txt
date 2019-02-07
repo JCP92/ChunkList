@@ -1,0 +1,46 @@
+PutItem 1 A
+PutItem 1 B
+PutItem 1 C 
+PutItem 1 D 
+PutItem 1 E 
+PutItem 1 F 
+PutItem 1 G 
+PutItem 1 H
+PutItem 1 I
+PutItem 1 J
+PutItem 1 K
+PutItem 1 L 
+PutItem 1 M 
+
+PrintList
+
+GetLength
+
+GetItem O
+
+PrintList
+
+DeleteItem B
+
+PrintList
+
+IsFull
+
+MakeEmpty
+
+PutItem 1 a
+PutItem 1 b
+PutItem 1 d
+PutItem 1 c
+
+PrintList
+
+GetItem B
+
+GetItem Z
+
+PrintList
+
+DeleteItem A
+
+Quit
